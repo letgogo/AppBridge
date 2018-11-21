@@ -74,8 +74,6 @@ ProcessHelper.registerService(ProcessHelper.PROCESS_HOST_MSG,
 
 &nbsp;&nbsp;3.2.2:&nbsp;收发消息参考MessageDispatcher，根据业务拓展逻辑。
 
-[messagedispatch_v1.2.1.aar](https://ecloud.baidu.com?t=190b314c3fe3596f67b95922571a0e31)
-
 ps：文档和代码不完善之处后续有时间再补充！
 
 ------
