@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">三方app</string>
+    <string name="send_msg">发送消息给HostApp</string>
+</resources>
